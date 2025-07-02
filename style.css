@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f0f2f5;
+  color: #333;
+}
+
+.hero {
+  background: #4CAF50;
+  color: #fff;
+  padding: 4rem 1rem;
+  text-align: center;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.card {
+  background: #fff;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 1rem 0;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+h1, h2, h3 {
+  margin-top: 0;
+}
+
+.skills {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.skills li {
+  background: #4CAF50;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  margin: 0.3rem;
+  border-radius: 4px;
+}
+
+.project {
+  margin: 1rem 0;
+}
+
+footer {
+  text-align: center;
+  background: #333;
+  color: #fff;
+  padding: 1rem;
+}
